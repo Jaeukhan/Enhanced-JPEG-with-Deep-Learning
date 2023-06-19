@@ -24,7 +24,7 @@ q factor 70부분에서 sim 0.01 향상.<br/>
 9. decoding
 10. ARCNN
 
-## 3. Result
+## 3. Architecture
 
 | JPEG img                                                |
 | ------------------------------------------------------- |
